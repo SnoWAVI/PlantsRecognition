@@ -1,14 +1,5 @@
 <div align="center"><h1>🌿 Plants Recognition</h1></div>
-<div align="center"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/CPU-Only-007ACC?style=for-the-badge&logo=amd&logoColor=white" alt="CPU Only"> <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"><h3>My First Machine Learning Project: Plant Image Recognition with Incremental Learning</h3><p> <a href="#features">✨ Features</a> • <a href="#quick-start">🚀 Quick Start</a> • <a href="#architecture">🏗️ Architecture</a> • <a href="#usage">⚙️ Usage</a> • <a href="#challenges">🧠 Challenges</a> • <a href="#roadmap">🔮 Roadmap</a> </p></div>
-
-<p>
-  <a href="#features">✨ Features</a> •
-  <a href="#quick-start">🚀 Quick Start</a> •
-  <a href="#architecture">🏗️ Architecture</a> •
-  <a href="#usage">⚙️ Usage</a> •
-  <a href="#challenges">🧠 Challenges</a> •
-  <a href="#roadmap">🔮 Roadmap</a>
-</p>
+<div align="center"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/CPU-Only-007ACC?style=for-the-badge&logo=amd&logoColor=white" alt="CPU Only"> <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"><h3>My First Machine Learning Project: Plant Image Recognition with Incremental Learning</h3></div>
 
 <h2>📋 About the Project</h2>
 This is my first attempt at creating a comprehensive image recognition application, featuring incremental learning capabilities. The project addresses real-world machine learning challenges including catastrophic forgetting, weight balancing, and model optimization.
