@@ -7,7 +7,7 @@ Important Design Decision: This project is specifically configured for CPU-only 
 <br><br>
 Development Journey: I spent significantly more time than expected, facing numerous challenges with catastrophic forgetting, weight balance issues, and poor learning rates. With assistance from DeepSeek AI, I implemented extensive diagnostics throughout all processes, allowing me to debug and improve the code iteratively.
 
-<h2>✨ Features</h2>
+## ✨ Features
 <h3>🎯 Core Capabilities</h3>
 <img width="732" height="372" alt="image" src="https://github.com/user-attachments/assets/4496692b-5332-4837-8f6c-c58278bcc2c8" />
 
@@ -22,7 +22,7 @@ Confusion matrices for both old and new data
 
 - Forgetting rate calculation
 
-<h2>🚀 Quick Start</h2>
+## 🚀 Quick Start
 <h3>Prerequisites</h3>
 <img width="201" height="176" alt="image" src="https://github.com/user-attachments/assets/9f488d61-7a93-49b6-906d-96d2949b5612" />
 
